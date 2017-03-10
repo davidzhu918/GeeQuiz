@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GeeQuiz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_finish">Finish</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="title_activity_dashboard">GeeQuiz Dashboard</string>
+    <string name="title_activity_categories">GeeQuiz Categories</string>
+    <string name="title_activity_explanation">ExplanationActivity</string>
+</resources>
